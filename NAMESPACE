@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+
+import(rootSolve, BinOrdNonNor)
+
+importFrom("stats", "cor", "quantile", "rbeta", "runif")
