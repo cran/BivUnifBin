@@ -14,14 +14,14 @@ The computations based on the relationship between bivariate uniform data and bi
 \tabular{ll}{
 Package: \tab BivUnifBin\cr
 Type: \tab Package\cr
-Version: \tab 1.2\cr
-Date: \tab 2018-01-10\cr
+Version: \tab 1.3\cr
+Date: \tab 2019-02-22\cr
 License: \tab GPL-2 | GPL-3\cr
 }}
 \author{
-Hakan Demirtas, Rawan Allozi
+Hakan Demirtas, Rawan Allozi, Ran Gao
 
-Maintainer: Rawan Allozi <ralloz2@uic.edu>
+Maintainer: Ran Gao <rgao8@uic.edu>
 }
 \references{
 Demirtas, H. and Hedeker, D. (2011). A practical way for computing approximate lower and upper correlation bounds. \emph{The American Statistician}, \bold{65(2)}, 104-109.

@@ -1,7 +1,7 @@
 \name{genbivunif.a}
 \alias{genbivunif.a}
 \title{Simulating Bivariate Uniform Data via Beta(a,1)}
-\description{This function simulates bivariate uniform data via Beta(a,1) and a specified correlation (rho) as seen in Demirtas (2014).}
+\description{This function simulates bivariate uniform data via Beta(a,1) and a specified correlation (rho) as described in Demirtas (2014).}
 \usage{
 genbivunif.a(N=10000, rho, print.cor=TRUE)
 }

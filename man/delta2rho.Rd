@@ -1,7 +1,7 @@
 \name{delta2rho}
 \alias{delta2rho}
 \title{Bivariate Binary Data and its Connection to Bivariate Uniform Data}
-\description{This function calculates algorithmic rho given delta, simulates bivariate uniform data with the calculated rho using \code{\link{genbivunif.a}}, dichotomizes the data based on p1 and p2 to generate bivariate binary data, and calculates the algorithmic and empirical correlation (delta) of the bivariate binary data as seen in Demirtas (2014).}
+\description{This function calculates algorithmic rho given delta, simulates bivariate uniform data with the calculated rho using \code{\link{genbivunif.a}}, dichotomizes the data based on p1 and p2 to generate bivariate binary data, and calculates the algorithmic and empirical correlation (delta) of the bivariate binary data as described in Demirtas (2014).}
 \usage{
 delta2rho(N=10000, p1, p2, delta, print.cor=TRUE)
 }
