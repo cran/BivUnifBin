@@ -14,8 +14,8 @@ The computations based on the relationship between bivariate uniform data and bi
 \tabular{ll}{
 Package: \tab BivUnifBin\cr
 Type: \tab Package\cr
-Version: \tab 1.3.1\cr
-Date: \tab 2019-05-15\cr
+Version: \tab 1.3.2\cr
+Date: \tab 2020-03-29\cr
 License: \tab GPL-2 | GPL-3\cr
 }}
 \author{
