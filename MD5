@@ -1,10 +1,10 @@
-3903ccb3ae7824c9daed115894ca5740 *DESCRIPTION
+5c1aa1e3b82ee503cce2dfc3b860dcaa *DESCRIPTION
 01a32b3795c27efca8c4c4619d2dbfa5 *NAMESPACE
 54d84dc20b64c353a96396812be557bc *R/delta2rho.R
 6b5e2e3b6003eef091a947ca8eac9b03 *R/genbivunif.a.R
 9f6f5ea5b6a089e0516c6a73fca8229e *R/genbivunif.t.R
 eb136cde2d652da6e5c9857ef06ac111 *R/rho2delta.R
-10d72483b001bc2ffba90f4423807d98 *man/BivUnifBin-package.Rd
+b7de97460954b06acc6f59284dbfdd70 *man/BivUnifBin-package.Rd
 511131d74e8d9270f1b996929b03b448 *man/delta2rho.Rd
 2e57db86eb2e576b223a12614d9c6d1e *man/genbivunif.a.Rd
 a16672918fc8137c89f80fc20209b94b *man/genbivunif.t.Rd
